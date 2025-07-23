@@ -7,7 +7,7 @@ This project builds time-series forecasting models (Simple RNN and LSTM) using h
 ✅ Build and train a Simple RNN model
 ✅ Build and train a LSTM model
 ✅ Visualize predictions on training and validation data
-✅ Predict future open price using last 50 days’ data
+✅ Predict future open price using last 50 day’s data
 
 🗂️ Dataset
 Tesla.csv file with historical stock prices
